@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/char_tracerpicpressed"
+        android:state_pressed="true" />
+    <item android:drawable="@drawable/char_tracerpic1"
+        android:state_focused="true" />
+    <item android:drawable="@drawable/char_tracerpic2" />
+
+</selector>
