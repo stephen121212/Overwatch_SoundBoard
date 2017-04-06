@@ -8,106 +8,106 @@
         optimize="true"
         revision="25.0.2"
         sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_8e3df9e0f4e058c85f17ff2af237fb992e3ec89a\classes.dex" />
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_8e3df9e0f4e058c85f17ff2af237fb992e3ec89a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_1e0b135c648accfff9d0fac26982cfcb4f8dcb70\classes.dex" />
+        sha1="c46db8c0210513f5f4daeef3bd265f8cc931897e">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_631c6b3974b792668780d89f0023bb6acfce5d2d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_257be5de205c37fa8cec201e462df234f3f61322\classes.dex" />
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_323b527cc62274e6273ce8c6f3849e45d57cd397\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="5e29159b2032d986bccb274066e56254b6ddf448">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91f4c340557c396430318dec80dcb3a42877729a\classes.dex" />
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_a8efd010d40375326848675062aeadb615ce1680\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_2943a22de2e101357faceac2a9883b686f11835e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_6d56e7cbe9fcb4261ac9057bf7de7e50da716aab\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_8a0f3d22e7028e96560bd5b869716bcfde2b0a4b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_208c92494d90609209044c1376068e5901d11180\classes.dex" />
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_ff41a4624f7d389a4715401f371eab8191e6b07b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a2409c5e55b437014ffffd0738b8ee553081539a">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3a242f57d905a06e0df1974b75e82dd30c1fdcc2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_b67a227fc56050c3c781ee988723e8b39b29cd54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_22d1b445f149e0e4d864323cff60a69f59cc45fe\classes.dex" />
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_88734e94cf7c520d3661b369541e8a46c7c49716\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_2c69e61f76826d67871ea38de13a3dacf6879380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9301b815e4525b40156ab09626be2aa868f5e0b5">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e7a8aac8c48ee024b3d219c0bbbc8b04c03f06b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_1b74a1f0cd2c26ca64cf4bc26b06dbcc5d3cb229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="C:\Users\Daniel\Desktop\OverwatchSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_8117274bec31bc4ce8b7373ab9577b76b78fa46f\classes.dex" />
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_54fbe4dc4b83b4129e8953ce825a155b311bc0f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_673ed0c41f0cb703ed997fa85562347e1fe27f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_6052af582be15b6e574faddecbbca4dfcb84a99b\classes.dex" />
     </item>
 
 </items>

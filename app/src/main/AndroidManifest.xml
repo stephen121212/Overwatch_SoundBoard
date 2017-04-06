@@ -22,7 +22,8 @@
         <activity android:name=".redButton" />
         <activity android:name=".blueButton" />
         <activity android:name=".greenButton" />
-        <activity android:name=".yellowButton"/>
+        <activity android:name=".yellowButton" />
+        <activity android:name=".voice_genji"></activity>
     </application>
 
 </manifest>
