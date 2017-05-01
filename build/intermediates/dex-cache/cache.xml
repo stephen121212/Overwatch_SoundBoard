@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9301b815e4525b40156ab09626be2aa868f5e0b5">
+        sha1="41d7da759c5a7a5db18c8c361eae0f279a2ee0a8">
         <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e7a8aac8c48ee024b3d219c0bbbc8b04c03f06b\classes.dex" />
     </item>
     <item
@@ -90,6 +90,15 @@
         revision="25.0.2"
         sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
         <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_54fbe4dc4b83b4129e8953ce825a155b311bc0f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Daniel\Desktop\Overwatch_Sound\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_cbfc26fb5286a8b4e14dbe412b6a1b5d06530370\classes.dex" />
     </item>
     <item
         is-multidex="true"

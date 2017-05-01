@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/reaper_voice_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.example.daniel.overwatchsound.voice_reaper"
+    android:background="@drawable/backgroundk">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="Another one off the list"
+            android:onClick="reaper1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button12"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Dead man walking"
+            android:onClick="reaper2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Dead man walking (2)"
+            android:onClick="reaper3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Haven't been back here for a while"
+            android:onClick="reaper4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I'll do this alone if I have to"
+            android:onClick="reaper5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Psychopath"
+            android:onClick="reaper6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button22"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="What are you looking at"
+            android:onClick="reaper7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button13"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="ULTIMATE"
+            android:onClick="reaper0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button11"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+    </LinearLayout>
+
+</ScrollView>

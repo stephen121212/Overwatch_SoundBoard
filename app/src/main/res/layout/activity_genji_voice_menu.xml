@@ -17,88 +17,122 @@
         android:layout_centerHorizontal="true">
 
         <Button
-            android:text="Button"
+            android:text="Lets Fight!"
+            android:onClick="letsFight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button12" />
+            android:id="@+id/button12"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="A steady blade, balances the soul"
+            android:onClick="aSteadyBlade"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button13" />
+            android:id="@+id/button3"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="HAH Simple!"
+            android:onClick="hahSimple"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button14" />
+            android:id="@+id/button2"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="I was hoping for a challenge"
+            android:onClick="aChallenge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button15" />
+            android:id="@+id/button"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="I am prepared"
+            android:onClick="iAmPrepared"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button16" />
+            android:id="@+id/button5"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="Measure twice, cut once"
+            android:onClick="measure"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button17" />
+            android:id="@+id/button22"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="My halloween costume? Cyborg ninja!"
+            android:onClick="myHalloween"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button18" />
+            android:id="@+id/button13"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="My soul seeks balance"
+            android:onClick="mySoul"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button19" />
+            android:id="@+id/button11"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="Not good enough"
+            android:onClick="notGood"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button20" />
+            android:id="@+id/button10"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="To know yourself, is to be at peace"
+            android:onClick="toKnow"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button21" />
+            android:id="@+id/button9"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="ULTIMATE"
+            android:onClick="ultimate"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button23" />
+            android:id="@+id/button8"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="Yeah"
+            android:onClick="yeah"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button24" />
+            android:id="@+id/button7"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
         <Button
-            android:text="Button"
+            android:text="You are only human"
+            android:onClick="youAreOnly"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button25" />
+            android:id="@+id/button6"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
 
-        <Button
-            android:text="Button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/button26" />
     </LinearLayout>
 
 </ScrollView>

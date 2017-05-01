@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/widowmaker_voice_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.example.daniel.overwatchsound.voice_widowmaker"
+    android:background="@drawable/backgroundk">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="A single death can change everything"
+            android:onClick="widowmaker1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button12"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Encore"
+            android:onClick="widowmaker2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Let them eat cake"
+            android:onClick="widowmaker3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Look for the woman"
+            android:onClick="widowmaker4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Magnifique"
+            android:onClick="widowmaker5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="One shot, one kill"
+            android:onClick="widowmaker6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button22"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Ouh la la"
+            android:onClick="widowmaker7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button13"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Pathetic"
+            android:onClick="widowmaker8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button11"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Step into my parlor"
+            android:onClick="widowmaker9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button10"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Whats an aimbot"
+            android:onClick="widowmaker10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button9"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="ULTIMATE"
+            android:onClick="widowmaker0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button8"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+    </LinearLayout>
+
+</ScrollView>

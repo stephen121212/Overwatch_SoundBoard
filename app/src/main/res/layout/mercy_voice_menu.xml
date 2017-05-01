@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mercy_voice_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.example.daniel.overwatchsound.voice_mercy"
+    android:background="@drawable/backgroundk">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="Doctors orders"
+            android:onClick="mercy1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button12"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="How barbaric"
+            android:onClick="mercy2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I have my eye on you"
+            android:onClick="mercy3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I'll send you my consultation fee"
+            android:onClick="mercy4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I'm not a miracle worker"
+            android:onClick="mercy5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Need a second opinion?"
+            android:onClick="mercy6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button22"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="On a scale of 1-10"
+            android:onClick="mercy7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button13"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Sprechstunde bei der frau doktor"
+            android:onClick="mercy8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button11"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Super"
+            android:onClick="mercy9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button10"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Take two and call me in the morning"
+            android:onClick="mercy10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button9"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="The doctor is in"
+            android:onClick="mercy11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button8"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="ULTIMATE"
+            android:onClick="mercy0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button7"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+    </LinearLayout>
+
+</ScrollView>

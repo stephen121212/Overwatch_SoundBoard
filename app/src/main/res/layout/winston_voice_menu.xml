@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/winston_voice_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.example.daniel.overwatchsound.voice_winston"
+    android:background="@drawable/backgroundk">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="Curious"
+            android:onClick="winston1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button12"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Did someone say peanut butter?"
+            android:onClick="winston2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Don't get me angry"
+            android:onClick="winston3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Houston, we have a problem"
+            android:onClick="winston4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="How embarrassing"
+            android:onClick="winston5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I, uh, got you something"
+            android:onClick="winston6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button22"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Natural selection"
+            android:onClick="winston7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button13"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="No, I do not want a banana"
+            android:onClick="winston8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button11"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="No monkey business"
+            android:onClick="winston9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button10"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Playtimes over"
+            android:onClick="winston10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button9"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Sorry about that"
+            android:onClick="winston11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button8"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="That was awesome"
+            android:onClick="winston12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button7"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="The power of science"
+            android:onClick="winston13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button6"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="This is not a costume"
+            android:onClick="winston14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button4"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+    </LinearLayout>
+
+</ScrollView>

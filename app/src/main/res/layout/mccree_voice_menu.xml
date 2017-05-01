@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mccree_voice_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.example.daniel.overwatchsound.voice_mccree"
+    android:background="@drawable/backgroundk">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="Happens to the best of us"
+            android:onClick="happensToTheBestOfUs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/butto12"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I don't much like losin'"
+            android:onClick="iDontMuchLikeLosin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton3"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I tried being reasonable, didn't take to it"
+            android:onClick="iTriedBeingReasonableDidntTakeToIt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btton2"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I'm not good, not bad, but I sure as hell ain't ugly"
+            android:onClick="imNotGoodNotBadButISureAsHellAintUgly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I'm the quick, you're the dead"
+            android:onClick="imTheQuickYoureTheDead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttn5"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I'm your huckleberry"
+            android:onClick="imYourHuckleberry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton22"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="I've got a bullet with your name on it"
+            android:onClick="iveGotABulletWithYourNameOnIt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttn13"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Reach for the sky"
+            android:onClick="reachForTheSky"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton11"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Wanted, dead or alive"
+            android:onClick="wantedDeadOrAlive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttn10"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="Watch and learn"
+            android:onClick="watchAndLearn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton9"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="You seem familiar, Ain't I killed you before?"
+            android:onClick="youSeemFamiliarAintIKilledYouBefore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttn8"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:text="ULTIMATE"
+            android:onClick="ultimateMccree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton7"
+            style="@android:style/Widget.Holo.Light.Button"
+            android:textColor="@android:color/holo_orange_dark" />
+
+    </LinearLayout>
+
+</ScrollView>

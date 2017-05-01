@@ -1,13 +1,13 @@
 package com.example.daniel.overwatchsound;
 
 import android.content.Intent;
-import android.support.annotation.IdRes;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         Button blueDefense = (Button)findViewById(R.id.defense);
         Button greenTank = (Button)findViewById(R.id.tank);
         Button yellowSupport = (Button)findViewById(R.id.Support);
+        Button characterOverview = (Button)findViewById(R.id.charOverview);
 
         redOffense.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,6 +56,14 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent menu4 = new Intent(MainActivity.this,yellowButton.class);
                 startActivity(menu4);
+            }
+        });
+
+        characterOverview.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent charMenu = new Intent(MainActivity.this,CharacterActivity.class);
+                startActivity(charMenu);
             }
         });
     }

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.daniel.overwatchsound">
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -19,11 +20,39 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        //Maim Menu Section
         <activity android:name=".redButton" />
         <activity android:name=".blueButton" />
         <activity android:name=".greenButton" />
         <activity android:name=".yellowButton" />
-        <activity android:name=".voice_genji"></activity>
+        <activity android:name=".CharacterActivity"/>
+        //Offense Section
+        <activity android:name=".voice_genji"/>
+        <activity android:name=".voice_mccree"/>
+        <activity android:name=".voice_pharah"/>
+        <activity android:name=".voice_reaper"/>
+        <activity android:name=".voice_s76"/>
+        <activity android:name=".voice_sombra"/>
+        <activity android:name=".voice_tracer"/>
+        //Defense Section
+        <activity android:name=".voice_bastion"/>
+        <activity android:name=".voice_hanzo"/>
+        <activity android:name=".voice_junkrat"/>
+        <activity android:name=".voice_mei"/>
+        <activity android:name=".voice_torbjorn"/>
+        <activity android:name=".voice_widowmaker"/>
+        //Tank Section
+        <activity android:name=".voice_dva"/>
+        <activity android:name=".voice_reinhardt"/>
+        <activity android:name=".voice_roadhog"/>
+        <activity android:name=".voice_winston"/>
+        <activity android:name=".voice_zarya"/>
+        //Support Section
+        <activity android:name=".voice_ana"/>
+        <activity android:name=".voice_lucio"/>
+        <activity android:name=".voice_mercy"/>
+        <activity android:name=".voice_symmetra"/>
+        <activity android:name=".voice_zenyatta"/>
     </application>
 
 </manifest>
